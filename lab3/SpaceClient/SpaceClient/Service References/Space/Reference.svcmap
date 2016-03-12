@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bcc2b90a-f47f-4916-9237-56180284fcb5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:9009/BlackHole" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BlackHole.xsd" MetadataType="Schema" ID="b10c4d1d-3c46-4627-9536-5557a3e3c244" SourceId="1" SourceUrl="http://localhost:9009/BlackHole?xsd=xsd1" />
+    <MetadataFile FileName="BlackHole1.xsd" MetadataType="Schema" ID="506ae0a0-f5e5-4730-a78d-76979863cc25" SourceId="1" SourceUrl="http://localhost:9009/BlackHole?xsd=xsd2" />
+    <MetadataFile FileName="BlackHole2.xsd" MetadataType="Schema" ID="1d6e5cf2-8678-4431-9c72-a727a44a4c57" SourceId="1" SourceUrl="http://localhost:9009/BlackHole?xsd=xsd0" />
+    <MetadataFile FileName="BlackHole.wsdl" MetadataType="Wsdl" ID="3ed7adfe-b008-4ff9-b0f7-6e5c5b7dcdec" SourceId="1" SourceUrl="http://localhost:9009/BlackHole?wsdl" />
+    <MetadataFile FileName="BlackHole.disco" MetadataType="Disco" ID="01e8dcde-e629-4f6f-ab11-0d92c16ac84b" SourceId="1" SourceUrl="http://localhost:9009/BlackHole?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

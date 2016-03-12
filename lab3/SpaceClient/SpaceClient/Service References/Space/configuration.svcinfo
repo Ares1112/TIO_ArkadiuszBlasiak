@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.WSHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;WSHttpBinding_IBlackHole&quot; /&gt;" bindingType="wsHttpBinding" name="WSHttpBinding_IBlackHole" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:9009/BlackHole/BlackHole%20Service%20Endpoint&quot; binding=&quot;wsHttpBinding&quot; bindingConfiguration=&quot;WSHttpBinding_IBlackHole&quot; contract=&quot;Space.IBlackHole&quot; name=&quot;WSHttpBinding_IBlackHole&quot;&gt;&lt;identity&gt;&lt;userPrincipalName value=&quot;null-PC\null&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:9009/BlackHole/BlackHole%20Service%20Endpoint&quot; binding=&quot;wsHttpBinding&quot; bindingConfiguration=&quot;WSHttpBinding_IBlackHole&quot; contract=&quot;Space.IBlackHole&quot; name=&quot;WSHttpBinding_IBlackHole&quot;&gt;&lt;identity&gt;&lt;userPrincipalName value=&quot;null-PC\null&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" contractName="Space.IBlackHole" name="WSHttpBinding_IBlackHole" />
+  </endpoints>
+</configurationSnapshot>
