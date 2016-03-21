@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicAdventureDTO", "CosmicAdventureDTO\CosmicAdventureDTO.csproj", "{D46930A7-61A5-41F1-B7D6-C450BAA65EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibrary1", "WcfServiceLibrary1\WcfServiceLibrary1.csproj", "{B036C721-96CC-43C8-8544-CF1FBFE2F8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space", "Space\Space.csproj", "{315DB899-6448-4EC9-97E0-8CA07B59E92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46930A7-61A5-41F1-B7D6-C450BAA65EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46930A7-61A5-41F1-B7D6-C450BAA65EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46930A7-61A5-41F1-B7D6-C450BAA65EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46930A7-61A5-41F1-B7D6-C450BAA65EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B036C721-96CC-43C8-8544-CF1FBFE2F8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B036C721-96CC-43C8-8544-CF1FBFE2F8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B036C721-96CC-43C8-8544-CF1FBFE2F8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B036C721-96CC-43C8-8544-CF1FBFE2F8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315DB899-6448-4EC9-97E0-8CA07B59E92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315DB899-6448-4EC9-97E0-8CA07B59E92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315DB899-6448-4EC9-97E0-8CA07B59E92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315DB899-6448-4EC9-97E0-8CA07B59E92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
