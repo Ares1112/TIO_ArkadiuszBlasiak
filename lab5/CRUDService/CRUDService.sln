@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.Models", "ObjectsManager.Models\ObjectsManager.Models.csproj", "{4E79458A-4868-4CB2-9DDB-168C40418722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.LiteDBMovie", "ObjectsManager.LiteDBMovie\ObjectsManager.LiteDBMovie.csproj", "{FB6BB82B-AB7F-4E81-956B-466686269FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsManager.LiteDBReviewAndPerson", "ObjectsManager.LiteDBReviewAndPerson\ObjectsManager.LiteDBReviewAndPerson.csproj", "{84C53BF4-98BA-4FE6-8A7C-084552976866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDMovieService", "CRUDMovieService\CRUDMovieService.csproj", "{A05726ED-F75D-46F6-8CE5-F81C80B5955A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDReviewAndPersonService", "CRUDReviewAndPersonService\CRUDReviewAndPersonService.csproj", "{3B9BDC9B-431B-4B90-8175-28B53B2A4258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E79458A-4868-4CB2-9DDB-168C40418722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E79458A-4868-4CB2-9DDB-168C40418722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E79458A-4868-4CB2-9DDB-168C40418722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E79458A-4868-4CB2-9DDB-168C40418722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6BB82B-AB7F-4E81-956B-466686269FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6BB82B-AB7F-4E81-956B-466686269FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6BB82B-AB7F-4E81-956B-466686269FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6BB82B-AB7F-4E81-956B-466686269FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C53BF4-98BA-4FE6-8A7C-084552976866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C53BF4-98BA-4FE6-8A7C-084552976866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C53BF4-98BA-4FE6-8A7C-084552976866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C53BF4-98BA-4FE6-8A7C-084552976866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05726ED-F75D-46F6-8CE5-F81C80B5955A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05726ED-F75D-46F6-8CE5-F81C80B5955A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05726ED-F75D-46F6-8CE5-F81C80B5955A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05726ED-F75D-46F6-8CE5-F81C80B5955A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9BDC9B-431B-4B90-8175-28B53B2A4258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9BDC9B-431B-4B90-8175-28B53B2A4258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9BDC9B-431B-4B90-8175-28B53B2A4258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9BDC9B-431B-4B90-8175-28B53B2A4258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
